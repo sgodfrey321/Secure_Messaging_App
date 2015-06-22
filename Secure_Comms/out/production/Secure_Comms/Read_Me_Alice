@@ -1,0 +1,1 @@
+This program is very simple to run. From the terminal you can report extensive numbers/actions/other things by using the -v command, i.e. java entry_Point -v. Once the program is up and running just hit 1 to start the process, then enter the IP address of the desired host and then proceed to send some text!
